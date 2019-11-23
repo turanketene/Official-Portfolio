@@ -1021,7 +1021,7 @@ iframe {
   -moz-transform: translateY(0px);
 }
 .project-item a {
-  cursor: url('../img/projects2.cur'), projetos !important;
+  cursor: url('../img/FindMyHike.jpg'), projetos !important;
   border-radius: 6px;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
